@@ -18,5 +18,3 @@
 * Barney
 * Cleatus the slackjawed yokel
 * Joey Joe Joe Shabdo Jr.
-
-## Doh
